@@ -1,0 +1,22 @@
+{
+  "common": {
+    "dashboard": "لوحة التحكم",
+    "products": "المنتجات",
+    "orders": "الطلبات",
+    "customers": "العملاء",
+    "accountSettings": "إعدادات الحساب",
+    "logout": "تسجيل الخروج",
+    "deleteAccount": "حذف الحساب",
+    "deleteAccountConfirmation": "هل أنت متأكد أنك تريد حذف حسابك؟ لا يمكن التراجع عن هذا الإجراء.",
+    "enterPassword": "أدخل كلمة المرور للتأكيد",
+    "cancel": "إلغاء"
+  },
+  "product": {
+    "name": "الاسم",
+    "price": "السعر",
+    "stock": "المخزون",
+    "category": "الفئة",
+    "addToCart": "أضف إلى السلة"
+  }
+}
+

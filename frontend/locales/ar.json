@@ -1,0 +1,22 @@
+{
+  "categories": "الفئات",
+  "priceRange": "نطاق السعر",
+  "searchProducts": "البحث عن المنتجات...",
+  "addToCart": "أضف إلى السلة",
+  "skincare": "العناية بالبشرة",
+  "makeup": "مكياج",
+  "fragrances": "عطور",
+  "hairCare": "العناية بالشعر",
+  "bodyCare": "العناية بالجسم",
+  "theme": "المظهر",
+  "language": "اللغة",
+  "cashOnDelivery": "الدفع عند الاستلام",
+  "sortBy": "ترتيب حسب",
+  "filters": "التصفية",
+  "clearFilters": "مسح التصفية",
+  "noProducts": "لم يتم العثور على منتجات",
+  "price": "السعر",
+  "category": "الفئة",
+  "search": "بحث"
+}
+

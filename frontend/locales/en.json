@@ -1,0 +1,22 @@
+{
+  "categories": "Categories",
+  "priceRange": "Price Range",
+  "searchProducts": "Search products...",
+  "addToCart": "Add to Cart",
+  "skincare": "Skincare",
+  "makeup": "Makeup",
+  "fragrances": "Fragrances",
+  "hairCare": "Hair Care",
+  "bodyCare": "Body Care",
+  "theme": "Theme",
+  "language": "Language",
+  "cashOnDelivery": "Cash on Delivery",
+  "sortBy": "Sort by",
+  "filters": "Filters",
+  "clearFilters": "Clear Filters",
+  "noProducts": "No products found",
+  "price": "Price",
+  "category": "Category",
+  "search": "Search"
+}
+

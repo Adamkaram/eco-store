@@ -1,0 +1,22 @@
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "orders": "Orders",
+    "customers": "Customers",
+    "accountSettings": "Account Settings",
+    "logout": "Logout",
+    "deleteAccount": "Delete Account",
+    "deleteAccountConfirmation": "Are you sure you want to delete your account? This action cannot be undone.",
+    "enterPassword": "Enter your password to confirm",
+    "cancel": "Cancel"
+  },
+  "product": {
+    "name": "Name",
+    "price": "Price",
+    "stock": "Stock",
+    "category": "Category",
+    "addToCart": "Add to Cart"
+  }
+}
+
